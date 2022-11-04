@@ -29,7 +29,7 @@
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
 
 ### 😂 Random Dev Meme
-<img src="https://waifu.im/random/?selected_tags=waifu"/>
+<img src="https://ghibliapi.herokuapp.com"/>
 
 ---
 [![](https://visitcount.itsvg.in/api?id=pranatad&icon=4&color=1)](https://visitcount.itsvg.in)
