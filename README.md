@@ -29,17 +29,10 @@
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
 
 ### 😂 Random Dev Meme
-<img src="https://api.waifu.pics/many/type/category" width="512px"/>
+<img src="https://gallery.fluxpoint.dev/api/sfw/anime" width="512px"/>
 
 ---
 [![](https://visitcount.itsvg.in/api?id=pranatad&icon=4&color=1)](https://visitcount.itsvg.in)
 
 </div>
 
-const Anime_Images = require('anime-images-api')
-const API = new Anime_Images()
-async function getIMG(){
-    let { image } = await API.sfw.hug()
-    console.log(image)
-}
-getIMG()
