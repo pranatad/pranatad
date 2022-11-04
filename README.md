@@ -29,7 +29,7 @@
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
 
 ### 😂 Random Dev Meme
-<img src="https://picsum.photos/seed/picsum/1920/1080" width="512px"/>
+<img src="https://picsum.photos/1920/1080" width="512px"/>
 
 ---
 [![](https://visitcount.itsvg.in/api?id=pranatad&icon=4&color=1)](https://visitcount.itsvg.in)
