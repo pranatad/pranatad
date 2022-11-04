@@ -35,3 +35,11 @@
 [![](https://visitcount.itsvg.in/api?id=pranatad&icon=4&color=1)](https://visitcount.itsvg.in)
 
 </div>
+
+const Anime_Images = require('anime-images-api')
+const API = new Anime_Images()
+async function getIMG(){
+    let { image } = await API.sfw.hug()
+    console.log(image)
+}
+getIMG()
