@@ -15,7 +15,7 @@
 
 ###
 
-<div align="left">
+<div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" width="46" alt="javascript logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-plain.svg" height="30" width="46" alt="typescript logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" width="46" alt="react logo"  />
@@ -45,14 +45,14 @@
 
 ###
 
-<div align="left">
+<div align="center">
   <a href="https://www.youtube.com/channel/UC6Ms1JSRot3DAKu49ip_bvw" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=BOSKYU PEW&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="youtube logo"  />
+    <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=BOSKYU PEW&color=FF0000&logoColor=white&labelColor=&style=flat" height="25" alt="youtube logo"  />
   </a>
   <a href="https://www.instagram.com/praannn_/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
+    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=flat" height="25" alt="instagram logo"  />
   </a>
-  <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=duct#8630&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo"  />
+  <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=duct#8630&color=7289DA&logoColor=white&labelColor=&style=flat" height="25" alt="discord logo"  />
 </div>
 
 ###
@@ -62,4 +62,3 @@
 </div>
 
 ###
-Profile Readme Generator
