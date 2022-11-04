@@ -9,6 +9,8 @@
 
 ###
 
+<br clear="both">
+
 <img align="right" height="250" src="https://media.giphy.com/media/azPkFBR8ucSjsyWz4b/giphy.gif"  />
 
 ###
@@ -60,9 +62,4 @@
 </div>
 
 ###
-
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/pranatad/pranatad/blob/output/snake.svg" alt="Snake animation" />
-
-###
+Profile Readme Generator
