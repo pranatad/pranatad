@@ -1,6 +1,6 @@
-<div align="center">
+
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&width=435&lines=Salam+Kenal!+Saya+Pranata" alt="Typing SVG" /></a>
-</div>
+
 ![Header](./github-header-image.png)
 
 
