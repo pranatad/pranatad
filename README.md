@@ -31,6 +31,9 @@
 ### 😂 Random Dev Meme
 <img src="https://gallery.fluxpoint.dev/api/sfw/anime" width="512px"/>
 
+fetch("https://animechan.vercel.app/api/random/anime?title=naruto")
+          .then((response) => response.json())
+          .then((quote) => console.log(quote));
 ---
 [![](https://visitcount.itsvg.in/api?id=pranatad&icon=4&color=1)](https://visitcount.itsvg.in)
 
